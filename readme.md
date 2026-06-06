@@ -29,15 +29,15 @@ RUnning di local tdk disarankan krn saya melihat banyak sekali issue dg python c
 - Install python *saya menggunakan v3.14.5 MSI installer
 - Lalu buka terminal dan ketik `python` lalu enter
 
-![Python]()  
+![Python](https://github.com/yudasc/data-science-2026/blob/main/image_python.png)  
 
 - Setelah itu install pip untuk install `ipykernel` karena vscode butuh itu
-![Ipykernel]()  
+![Ipykernel](https://github.com/yudasc/data-science-2026/blob/main/image_pip.png)  
 
 - Install VSCode
 - Install extension vscode untuk jupyter notebook dan juga python
-![PythonExt]()  
-![JupyterExt]()  
+![PythonExt](https://github.com/yudasc/data-science-2026/blob/main/image_lib_python.png)  
+![JupyterExt](https://github.com/yudasc/data-science-2026/blob/main/image_lib_jupyter.png)  
 
 Info troubleshoot:
 Jika terjadi stuck atau code tidak running coba untuk `restart kernel` atau `restart vscodenya`
